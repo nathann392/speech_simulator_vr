@@ -1,0 +1,2 @@
+{"Items": [{"speechDate":"3/4/2021 9:36:15 PM","FillerCountText":"0","HeadMoveCountText":"337","PacingValueText":"Slow","QualityText":"Excellent"},{"speechDate":"3/4/2021 9:39:45 PM","FillerCountText":"0","HeadMoveCountText":"0","PacingValueText":"Slow","QualityText":"Excellent"}]}
+
